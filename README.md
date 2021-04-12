@@ -1,6 +1,6 @@
 # Greetings :lotus_position_woman:
 
-* :mortar_board:  I'm currently attending a Software Engineering Bootcamp at [Code Differently](https://codedifferently.com/)
+* :mortar_board:  I'm a recent graduate of a Software Engineering Bootcamp at [Code Differently](https://codedifferently.com/)
 
 * :notes:  I'm currently working on a full stack media app
 
